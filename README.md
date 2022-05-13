@@ -1,4 +1,4 @@
-# Digi-ChatBot
+# Digi_ChatBot
 
 SpursTech - Chatbot
 
